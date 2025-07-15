@@ -2,7 +2,7 @@
 
 ## Java junior developer
 
-I have been learning programing since April 2023.
+I have been learning programming since April 2023.
 
 #### Java SE
 #### Spring Framework
